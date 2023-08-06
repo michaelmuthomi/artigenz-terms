@@ -7,15 +7,4 @@ ARTIGENZ Student Community conducts various events under the **“FESTOPIA”** 
 Artigenz ensures this by administering various technical and non-technical-themed events. This hones the leadership, communication, technical, and coordination skills of the students and contributes to the growth of students as all-rounders in society.
 
 
-
-
-
-
-
-
-
-
-
-
-
 ![LOGO](https://github.com/liet-csm/artigenz-terms/blob/main/LOGO/logo-no-BG.png)
