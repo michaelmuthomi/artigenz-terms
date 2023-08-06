@@ -1,6 +1,6 @@
 # ARTIGENZ Student Community
 
-ARTIGENZ is a student community initiated by the Department of Computer Science and Engineering with Artificial Intelligence & Machine Learning. The Community's mission is to make students all-rounders in technology. ARTIGENZ is meant *“Artificial Intelligence Generations”*  which means the students will lead future generations to transform the nation. The motto of the Community is **“LEAD GENERATION TOGETHER”**.
+ARTIGENZ is a student community initiated by Students of Computer Science & Engineering specializing in  Artificial Intelligence & Machine Learning. The Community's mission is to make students all-rounders in technology. ARTIGENZ is meant *“Artificial Intelligence Generations”*  which means the students will lead future generations to transform the nation. The motto of the Community is **“LEAD GENERATION TOGETHER”**.
 
 ARTIGENZ Student Community conducts various events under the **“FESTOPIA”** which encourages students to participate in Co-curricular Activities and helps them build their esteem inside out in the aspects of leadership, coordination, collaboration, and growth. The ARTIGENZ Student Community conducts various Technical and Non-Technical events to make students All-rounders. The coordinators/achievers/participants will undoubtedly benefit from tremendous accomplishments that can be used for professional resume-building and portfolio presentations.
 
